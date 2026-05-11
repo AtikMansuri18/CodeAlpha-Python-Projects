@@ -1,0 +1,6 @@
+Stock Portfolio Details
+----------------------
+Stock Name :- TSLA
+Stock Price :- 250
+Quantity :- 50
+Total Investment :- 12500
